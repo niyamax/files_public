@@ -1,0 +1,180 @@
+{
+  "Language Learning": [
+    {
+      "Name": "ഇംഗ്ലീഷ് പഠിക്കാം with Inverted Coconut",
+      "Instructor": "Aparna Mulberry"
+    },
+    {
+      "Name": "Everyday English with Abshitha",
+      "Instructor": "Abshitha P"
+    },
+    {
+      "Name": "Learn German A1",
+      "Instructor": "Jishbin M R"
+    },
+    {
+      "Name": "Easy English",
+      "Instructor": "Jijoy Cheeran"
+    }
+  ],
+  "Coding & Development": [
+    {
+      "Name": "Entri Elevate - Full-Stack Web Development",
+      "Instructor": "Gokul G Nair"
+    },
+    {
+      "Name": "Entri Elevate - Data Science and Machine Learning",
+      "Instructor": "Siji Satheesan"
+    },
+    {
+      "Name": "Data Science and Machine Learning",
+      "Instructor": "Fairoos O K"
+    },
+    {
+      "Name": "Python Programming",
+      "Instructor": "Fairoos O K"
+    },
+    {
+      "Name": "Software Testing - Manual and Automation",
+      "Instructor": "Miranda Billy"
+    },
+    {
+      "Name": "Android Development Using Kotlin",
+      "Instructor": "Sreehari K"
+    },
+    {
+      "Name": "Full Stack Web Development",
+      "Instructor": "Abdulla Anas"
+    },
+    {
+      "Name": "Core Java Programming",
+      "Instructor": "Miranda Billy"
+    },
+    {
+      "Name": "React Native Development",
+      "Instructors": ["Ravi Varma Katari", "Saurav Ghosh Hajra"]
+    },
+    {
+      "Name": "Entri Elevate - Python Programming",
+      "Instructor": "SREERAM M R"
+    }
+  ],
+  "Finance": [
+    {
+      "Name": "Stock Market 360",
+      "Instructor": "Mohammed Jouhar Ali"
+    },
+    {
+      "Name": "Ananthakrishna",
+      "Instructor": "Abdul Basim"
+    },
+    {
+      "Name": "Rishi R Karun",
+      "Instructor": "Learn Options Trading - from Founder of Sensibull"
+    },
+    {
+      "Name": "Abid Hassan",
+      "Instructor": "Options Trading Strategy"
+    },
+    {
+      "Name": "Sunil Mathai",
+      "Instructor": "Stock Market for Absolute Beginners"
+    },
+    {
+      "Name": "Rajesh EA",
+      "Instructor": "Learn Options Trading - from Founder of Sensibull"
+    }
+  ],
+  "Commerce & Accounting": [
+    {
+      "Name": "Entri Elevate - Practical Accounting",
+      "Instructor": "Venkitkrishnan"
+    },
+    {
+      "Name": "CA Ajith Sivadas",
+      "Instructor": "CA Rajeev Ramanath H"
+    },
+    {
+      "Name": "T. G. Sreekanth",
+      "Instructor": "Banking Utilities"
+    },
+    {
+      "Name": "TEPL",
+      "Instructor": "Cost Center Management"
+    },
+    {
+      "Name": "TEPL",
+      "Instructor": "Tax Deducted at Source"
+    },
+    {
+      "Name": "TEPL",
+      "Instructor": "Data Analysis and Verification"
+    },
+    {
+      "Name": "TEPL",
+      "Instructor": "Accounts Payable and Receivable Management"
+    }
+  ],
+  "Engineering Upskilling": [
+    {
+      "Name": "Quantity Surveying",
+      "Instructors": ["Shafeer PP", "Jubair KV", "Subul Abdul Assis", "Rinsha V", "Nidha Fazli"]
+    },
+    {
+      "Name": "MEP Draftsman",
+      "Instructors": ["Babu Devasyakutty", "Rakesh M", "Saimon K S"]
+    },
+    {
+      "Name": "MEP & HVAC",
+      "Instructor": "Akhilesh"
+    }
+  ],
+  "Career Development": [
+    {
+      "Name": "ഇന്റർവ്യൂ പൊളിയ്ക്കാം with Inverted Coconut",
+      "Instructor": "Aparna Mulberry"
+    },
+    {
+      "Name": "Campus to Corporate",
+      "Instructors": ["Jijoy Cheeran", "Harshita", "Sidin Vadukut"]
+    },
+    {
+      "Name": "Cover Letter Preparations",
+      "Instructor": "Aparna Mulberry"
+    },
+    {
+      "Name": "Resume Writing",
+      "Instructors": ["Jijoy Cheeran", "Harshita"]
+    }
+  ],
+  "Design": [
+    {
+      "Name": "Graphic Design With Photoshop",
+      "Instructor": "Ramsankar U"
+    }
+  ],
+  "Office Productivity": [
+    {
+      "Name": "ChatGPT Essentials",
+      "Instructors": ["Aswin K R", "Jimjith Gopi", "Mary Teresa"]
+    },
+    {
+      "Name": "Microsoft Excel Basic to Advanced",
+      "Instructor": "Asitha Vijilesh"
+    }
+  ],
+  "Sales & Marketing": [
+    {
+      "Name": "YouTube Mastery - Basics",
+      "Instructor": "Alex"
+    },
+    {
+      "Name": "YouTube Mastery - Advanced",
+      "Instructor": "Alex"
+    },
+    {
+      "Name": "Entri Elevate - Performance Marketing",
+      "Instructors": ["Jaison Thomas", "Subilal", "Robin Thomas Jones"]
+    }
+  ]
+}
